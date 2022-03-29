@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "mongodb": "^4.4.1",
+    "mongoose": "^6.2.9"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.1.1"
+  }
+}
